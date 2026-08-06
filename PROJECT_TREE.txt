@@ -1,0 +1,24 @@
+CampusConnect/
+├── frontend/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── admin.js
+│   │   └── events.js
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── events.html
+│   ├── dashboard.html
+│   ├── admin.html
+│   └── profile.html
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   └── .env
+├── database/
+│   └── campusconnect.sql
+├── screenshots/
+├── .gitignore
+├── README.md
+└── PROJECT_DOCUMENTATION.md
